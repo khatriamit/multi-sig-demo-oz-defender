@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@animoca/ethereum-contracts@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@animoca/ethereum-contracts/-/ethereum-contracts-1.1.1.tgz#b3986397064454712cb6de88cd992baf7fb2da8e"
+  integrity sha512-GE+q8hbVmwS4fXbJIjRtM1gXTF/PhdAfe29rD2GUZnGWFKqsEkuHzds+Xk1RkTUmKCuX0gcXx9si4L8HCumJpA==
+
 "@aws-crypto/sha256-js@1.2.2":
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/@aws-crypto/sha256-js/-/sha256-js-1.2.2.tgz#02acd1a1fda92896fc5a28ec7c6e164644ea32fc"
@@ -705,6 +710,11 @@
     semver "^6.3.0"
     table "^6.8.0"
     undici "^5.14.0"
+
+"@openzeppelin/contracts@^4.9.0":
+  version "4.9.0"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.9.0.tgz#683f33b6598970051bc5f0806fd8660da9e018dd"
+  integrity sha512-DUP74AFGKlic2sQb/CmgrN2aUPMFGxRrmCTUxLHsiU2RzwWqVuMPZBxiAyvlff6Pea77uylAX6B5x9W6evEbhA==
 
 "@openzeppelin/hardhat-defender@^1.8.2":
   version "1.8.2"
